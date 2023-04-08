@@ -19,6 +19,7 @@ We have several resources for anyone interested in our research:
 
 ## Contributing
 If you have an idea for an improvement, feature or bug fix, feel free to open a Pull Request or get in touch with the repository creator.
+If you have been tasked with writing code for us, please consult the Lab V2 Welcome package for details and a styleguide.
 
 ## Contact
 Dr. Paulo Shakarian: pshak02@asu.edu
